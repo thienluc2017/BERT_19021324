@@ -11,4 +11,4 @@ Link chạy code mẫu cho sẵn:
 
 [https://colab.research.google.com/drive/1jTmZPvYqEEoo1deWCMRvhzb-xmGqKYDj?usp=sharing](https://colab.research.google.com/drive/1jTmZPvYqEEoo1deWCMRvhzb-xmGqKYDj?usp=sharing)
 
-### Link mình đang làm :[https://colab.research.google.com/drive/1HxEavFUVwlt0XLSlxdE7kwkjlXRkjaoq?usp=sharing](https://colab.research.google.com/drive/1HxEavFUVwlt0XLSlxdE7kwkjlXRkjaoq?usp=sharing)
+### Link PhoBERT : https://colab.research.google.com/drive/13BHrHRqJ0HTL7HB40C_RlSku79-j3Syq?usp=sharing
