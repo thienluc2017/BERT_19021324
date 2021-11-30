@@ -12,4 +12,4 @@ Link chạy code mẫu cho sẵn:
 [https://colab.research.google.com/drive/1jTmZPvYqEEoo1deWCMRvhzb-xmGqKYDj?usp=sharing](https://colab.research.google.com/drive/1jTmZPvYqEEoo1deWCMRvhzb-xmGqKYDj?usp=sharing)
 
 ### Link PhoBERT : https://colab.research.google.com/drive/13BHrHRqJ0HTL7HB40C_RlSku79-j3Syq?usp=sharing
-Hiện tại trong colab PhoBERT đang bị lỗi do hết RAM ! [image](https://user-images.githubusercontent.com/63245743/143774684-6731de21-886f-4d34-8186-6f2b664c518c.png)
+Hiện tại trong colab PhoBERT đang bị lỗi do hết RAM do mail vnu.edu.vn đã bị chặn ở colab! [image](https://user-images.githubusercontent.com/63245743/143774684-6731de21-886f-4d34-8186-6f2b664c518c.png)
